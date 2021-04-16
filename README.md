@@ -57,3 +57,8 @@ One researcher in Panda's dataframe format:
 |      | name                    | gender   | reasearch_level   | uni_relation        | title   | cv   | research group                                           |
 |-----:|:------------------------|:---------|:------------------|:--------------------|:--------|:-----|:---------------------------------------------------------|
 | 2645 | Víctor Fernández Juárez | M        | Col·laboradors    | Tècnic especialista | Sr.     |      | Unitat de Gràfics i Visió per Ordinador i IA (UGiVpOeIA) |
+
+
+#### Disclaimer: 
+
+All the data has been scraped from the UIB's web page which is public data. [Right of acces to public information](https://transparencia.uib.cat/Acces-a-la-informacio-publica/Dret-dacces-a-la-informacio-publica/). 
