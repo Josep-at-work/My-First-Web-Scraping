@@ -54,7 +54,7 @@ For non-catalan or spanish speakers, note that the female version of the persona
 
 One researcher in Panda's dataframe format:
 
-|      | name                    | gender   | reasearch_level   | uni_relation        | title   | cv   | research group                                           |
+|      | name                    | gender   | reasearch level   | role                | title   | cv   | research group                                           |
 |-----:|:------------------------|:---------|:------------------|:--------------------|:--------|:-----|:---------------------------------------------------------|
 | 2645 | Víctor Fernández Juárez | M        | Col·laboradors    | Tècnic especialista | Sr.     |      | Unitat de Gràfics i Visió per Ordinador i IA (UGiVpOeIA) |
 
