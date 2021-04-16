@@ -1,20 +1,20 @@
-# Scrapping University's Researchers
+# Scrapping University Researchers
 
 As a project from my Master's in Big Data Analysis I've performed my first solo web scraping. The task consisted on extracting specific information on the university's members of the different research groups. [Universitat de les Illes Balears](https://www.uib.es/es/), *aka* UIB.
 
 ## Aim:
 + Identification and extraction of the researchers' information:
-    + Name
-    + Gender 
-    + Researcher Level
-    + University Relationship
-    + Title
-    + CV
-    + Research Group
+    + **Name**
+    + **Gender** 
+    + **Researcher Level**
+    + **University Relationship**(Role)
+    + **Title**
+    + **CV**
+    + **Research Group**
 
 ### Part 1
 
-The researcher's data is available [here](https://www.uib.eu/research/groups/). The *All* cateogory displays all the research groups in a easier format so the scraping will start at:
+The researcher's information is available [here](https://www.uib.eu/research/groups/). The *All* cateogory displays all the research groups in a easier format so the scraping will start at:
   + [url_en](https://www.uib.eu/research/groups/grups_area/id_area=-1%2526npag=1) english version.
   + [url_cat](https://www.uib.cat/recerca/estructures/grups/grups_area/id_area=-1%2526npag=1) catalan version.
   + [url_sp](https://www.uib.es/es/recerca/estructures/grups/grups_area/id_area=-1) spanish version.
@@ -61,4 +61,4 @@ One researcher in Panda's dataframe format:
 
 #### Disclaimer: 
 
-All the data has been scraped from the UIB's web page which is public data. [Right of acces to public information](https://transparencia.uib.cat/Acces-a-la-informacio-publica/Dret-dacces-a-la-informacio-publica/). 
+All the data has been scraped from the UIB's [R&D&I](https://www.uib.eu/research/groups/grups_area/id_area=-1&npag=1) web page which is public data. [Right of acces to public information](https://transparencia.uib.cat/Acces-a-la-informacio-publica/Dret-dacces-a-la-informacio-publica/). 
